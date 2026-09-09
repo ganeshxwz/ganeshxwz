@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ganesh
+# Hi, I'm Gane
 
 ### Web Developer in Progress
 
