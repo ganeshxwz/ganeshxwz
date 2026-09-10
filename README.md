@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/cozy.gif" width="100%">
-</p>
+
 
 <div align="center">
 
