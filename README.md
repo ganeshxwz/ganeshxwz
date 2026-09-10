@@ -19,14 +19,15 @@ Building projects. Learning JavaScript. Exploring React.
 
 <td width="60%" valign="top">
 
-## 👋 About Me
+##  About Me
 
 I'm a web development learner focused on building real projects and improving my skills.
 
-- 🌱 Learning JavaScript & React
-- 💻 Building web projects
-- 🧠 Improving my programming fundamentals
-- 🚀 Exploring modern web development
+-  Learning JavaScript & React
+-  Building web projects
+-  Improving my programming fundamentals
+-  Exploring modern web development
+-  learning web3 development
 
 </td>
 
