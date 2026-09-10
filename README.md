@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 # Hi, I'm Gane
@@ -44,7 +43,7 @@ I'm a web development learner focused on building real projects and improving my
 
 ## Tech Stack
 
-| Frontend Tools | HTML | Git | CSS | GitHub | JavaScript | VS Code | React | npm 
+Frontend Tools | HTML | Git | CSS | GitHub | JavaScript | VS Code | React | npm 
 
 ---
 
