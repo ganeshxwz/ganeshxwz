@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cozy.gif" width="100%">
+</p>
+
 <div align="center">
 
 # Hi, I'm Gane
@@ -50,23 +54,3 @@ I'm a web development learner focused on building real projects and improving my
 
 ---
 
-## Featured Projects
-
-### Digital Clock
-A simple clock built with JavaScript.
-
-### Todo App
-A todo application built while practicing JavaScript.
-
-### React Chat App
-A chat application I'm building while learning React.
-
----
-
-## Current Journey
-
-```text
-HTML        ████████████████████
-CSS         ██████████████████░░
-JavaScript  ███████████████░░░░░
-React       ████████░░░░░░░░░░░
