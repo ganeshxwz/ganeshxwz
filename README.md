@@ -12,14 +12,30 @@ Building projects. Learning JavaScript. Exploring React.
 
 ---
 
-## About Me
+<table>
+<tr>
 
-I'm a web development learner focused on building real projects and improving my skills through practice.
+<td width="60%" valign="top">
 
-- Learning **JavaScript & React**
-- Building projects to strengthen my fundamentals
-- Exploring modern web development
-- Currently growing my GitHub portfolio
+## 👋 About Me
+
+I'm a web development learner focused on building real projects and improving my skills.
+
+- 🌱 Learning JavaScript & React
+- 💻 Building web projects
+- 🧠 Improving my programming fundamentals
+- 🚀 Exploring modern web development
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/anime-1.jpg" width="280">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
